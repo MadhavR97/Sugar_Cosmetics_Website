@@ -84,7 +84,7 @@ function Login() {
                 draggable: true,
                 progress: undefined,
                 theme: "dark",
-                transition: Slide,
+                transition: Flip,
             });
         }
     }
