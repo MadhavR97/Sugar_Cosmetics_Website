@@ -71,7 +71,7 @@ function Section5() {
                     </div>
                     <div className='w-[60%] h-full'>
                         <div className='w-full h-[100px] flex items-center'>
-                            <img src="https://scontent.xx.fbcdn.net/v/t51.2885-15/416131702_904500887830507_2163880341209153972_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=7d201b&_nc_ohc=DckElhKCMSIQ7kNvgHXmmCh&_nc_zt=23&_nc_ht=scontent.xx&edm=AL-3X8kEAAAA&oh=00_AYDtK1VXptyzYWHcZj3j2qMTBjNtwCbqJSB6nBfM8Kfa3Q&oe=67A784D3" alt="" className='w-[40px] h-[40px] rounded-full' />
+                            <img src="https://scontent.xx.fbcdn.net/v/t51.2885-15/416131702_904500887830507_2163880341209153972_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=7d201b&_nc_ohc=hRApQ03t1YkQ7kNvwFHJM2r&_nc_oc=AdlLDUZjXJdMqHgL_pqFGnjm3CWMDPQHxGsL64nRMczHTklZb1x92i-y-0Owwoc5RvE&_nc_zt=23&_nc_ht=scontent.xx&edm=AL-3X8kEAAAA&oh=00_AfI2xAESPvM95JxoGUvoZ0MGpJ-eVTWtjhNGQx8YHR4gJQ&oe=6845F113" alt="" className='w-[40px] h-[40px] rounded-full' />
                             <p className='text-lg font-bold ms-3 tracking-wider'>trysugar</p>
                         </div>
                         <p className='font-bold mt-5'>{boxVideo.title1}</p>
