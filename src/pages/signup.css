@@ -1,0 +1,15 @@
+#gotoLogin::before {
+    content: "";
+    width: 100%;
+    height: 1px;
+    background-color: black;
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    transform: scalex(0);
+    transition: 0.5s;
+}
+
+#gotoLogin:hover::before {
+    transform: scalex(1);
+}
